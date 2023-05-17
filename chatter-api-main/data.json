@@ -1,0 +1,404 @@
+[
+  {
+    "userId": "42t3f1lfl33gm8z4",
+    "name": "Mario",
+    "lastName": "Bros",
+    "email": "mario@nintendo.com.ar",
+    "password": "mariobros",
+    "image": "images/42t3f1lfl33gm8yu-mario.png",
+    "chats": [
+      {
+        "chatId": "42t3f1n6l33gos12",
+        "name": "Bowser",
+        "image": "images/42t3f1n6l33gos0r-bowser.png",
+        "messages": [
+          {
+            "messageId": "42t3f1o2l33gq0ki",
+            "message": "Hola mario, como andas?",
+            "timeDate": "2022-05-12T20:27:59.201Z",
+            "received": true
+          },
+          {
+            "messageId": "42t3f1ohl33gq8x7",
+            "message": "Hola! Bien y tu?",
+            "timeDate": "2022-05-12T20:28:10.026Z",
+            "received": false
+          },
+          {
+            "messageId": "42t3f1opl33gqh80",
+            "message": "Pasando bomba con Peach!!",
+            "timeDate": "2022-05-12T20:28:20.783Z",
+            "received": true
+          },
+          {
+            "messageId": "42t3f1ovl33gqllq",
+            "message": "Noooooo",
+            "timeDate": "2022-05-12T20:28:26.461Z",
+            "received": false
+          },
+          {
+            "messageId": "g2pceawglhgz6qso",
+            "message": "Hola",
+            "timeDate": "2023-05-10T00:41:45.768Z",
+            "received": false
+          },
+          {
+            "messageId": "g2pceawglhgz6unn",
+            "message": "Este es un mensaje de prueba! Deberías de recibir este mensaje luego de 5 segundos de haber enviado uno.",
+            "timeDate": "2023-05-10T00:41:50.771Z",
+            "received": true
+          },
+          {
+            "messageId": "g2pceawglhgznvpu",
+            "message": "Hola",
+            "timeDate": "2023-05-10T00:55:05.298Z",
+            "received": false
+          },
+          {
+            "messageId": "g2pce5eclhhyp0dh",
+            "message": "a",
+            "timeDate": "2023-05-10T17:15:44.548Z",
+            "received": false
+          },
+          {
+            "messageId": "g2pce5eclhhyp48u",
+            "message": "Este es un mensaje de prueba! Deberías de recibir este mensaje luego de 5 segundos de haber enviado uno.",
+            "timeDate": "2023-05-10T17:15:49.566Z",
+            "received": true
+          },
+          {
+            "messageId": "g2pce5eclhhz29h3",
+            "message": "Este es un mensaje de prueba! Deberías de recibir este mensaje luego de 5 segundos de haber enviado uno.",
+            "timeDate": "2023-05-10T17:26:02.871Z",
+            "received": true
+          },
+          {
+            "messageId": "g2pce5eclhhz6m0s",
+            "message": "Este es un mensaje de prueba! Deberías de recibir este mensaje luego de 5 segundos de haber enviado uno.",
+            "timeDate": "2023-05-10T17:29:25.756Z",
+            "received": true
+          },
+          {
+            "messageId": "g2pce5eclhhz6r36",
+            "message": "Este es un mensaje de prueba! Deberías de recibir este mensaje luego de 5 segundos de haber enviado uno.",
+            "timeDate": "2023-05-10T17:29:32.322Z",
+            "received": true
+          },
+          {
+            "messageId": "g2pce5eclhhz74qq",
+            "message": "Este es un mensaje de prueba! Deberías de recibir este mensaje luego de 5 segundos de haber enviado uno.",
+            "timeDate": "2023-05-10T17:29:50.018Z",
+            "received": true
+          },
+          {
+            "messageId": "g2pce5eclhhzdp8p",
+            "message": "a",
+            "timeDate": "2023-05-10T17:34:56.521Z",
+            "received": false
+          },
+          {
+            "messageId": "g2pce5eclhhzdwfw",
+            "message": "a",
+            "timeDate": "2023-05-10T17:35:05.852Z",
+            "received": false
+          },
+          {
+            "messageId": "g2pce5eclhhze0ay",
+            "message": "Este es un mensaje de prueba! Deberías de recibir este mensaje luego de 5 segundos de haber enviado uno.",
+            "timeDate": "2023-05-10T17:35:10.858Z",
+            "received": true
+          },
+          {
+            "messageId": "g2pce5eclhhzf671",
+            "message": "b",
+            "timeDate": "2023-05-10T17:36:05.149Z",
+            "received": false
+          },
+          {
+            "messageId": "g2pce5eclhhzfa2a",
+            "message": "Este es un mensaje de prueba! Deberías de recibir este mensaje luego de 5 segundos de haber enviado uno.",
+            "timeDate": "2023-05-10T17:36:10.162Z",
+            "received": true
+          },
+          {
+            "messageId": "g2pce5eclhi4z39b",
+            "message": "a",
+            "timeDate": "2023-05-10T20:11:32.543Z",
+            "received": false
+          },
+          {
+            "messageId": "g2pce5eclhi50mup",
+            "message": "b",
+            "timeDate": "2023-05-10T20:12:44.593Z",
+            "received": false
+          },
+          {
+            "messageId": "g2pce5eclhi50qpt",
+            "message": "Este es un mensaje de prueba! Deberías de recibir este mensaje luego de 5 segundos de haber enviado uno.",
+            "timeDate": "2023-05-10T20:12:49.601Z",
+            "received": true
+          },
+          {
+            "messageId": "g2pce5eclhi51j69",
+            "message": "b",
+            "timeDate": "2023-05-10T20:13:26.481Z",
+            "received": false
+          },
+          {
+            "messageId": "g2pce5eclhi51n1k",
+            "message": "Este es un mensaje de prueba! Deberías de recibir este mensaje luego de 5 segundos de haber enviado uno.",
+            "timeDate": "2023-05-10T20:13:31.496Z",
+            "received": true
+          },
+          {
+            "messageId": "g2pce5eclhi51yvf",
+            "message": "a",
+            "timeDate": "2023-05-10T20:13:46.827Z",
+            "received": false
+          },
+          {
+            "messageId": "g2pce5eclhi522qr",
+            "message": "Este es un mensaje de prueba! Deberías de recibir este mensaje luego de 5 segundos de haber enviado uno.",
+            "timeDate": "2023-05-10T20:13:51.843Z",
+            "received": true
+          },
+          {
+            "messageId": "g2pce5eclhi55qyk",
+            "message": "a",
+            "timeDate": "2023-05-10T20:16:43.196Z",
+            "received": false
+          },
+          {
+            "messageId": "g2pce5eclhi55utl",
+            "message": "Este es un mensaje de prueba! Deberías de recibir este mensaje luego de 5 segundos de haber enviado uno.",
+            "timeDate": "2023-05-10T20:16:48.201Z",
+            "received": true
+          },
+          {
+            "messageId": "g2pce5eclhi563yw",
+            "message": "a",
+            "timeDate": "2023-05-10T20:17:00.056Z",
+            "received": false
+          },
+          {
+            "messageId": "g2pce5eclhi565bf",
+            "message": "b",
+            "timeDate": "2023-05-10T20:17:01.803Z",
+            "received": false
+          },
+          {
+            "messageId": "g2pce5eclhi567u8",
+            "message": "Este es un mensaje de prueba! Deberías de recibir este mensaje luego de 5 segundos de haber enviado uno.",
+            "timeDate": "2023-05-10T20:17:05.072Z",
+            "received": true
+          },
+          {
+            "messageId": "g2pce5eclhi5696l",
+            "message": "Este es un mensaje de prueba! Deberías de recibir este mensaje luego de 5 segundos de haber enviado uno.",
+            "timeDate": "2023-05-10T20:17:06.813Z",
+            "received": true
+          },
+          {
+            "messageId": "g2pce5eclhi56eiw",
+            "message": "Hola",
+            "timeDate": "2023-05-10T20:17:13.736Z",
+            "received": false
+          },
+          {
+            "messageId": "g2pce5eclhi56idx",
+            "message": "Este es un mensaje de prueba! Deberías de recibir este mensaje luego de 5 segundos de haber enviado uno.",
+            "timeDate": "2023-05-10T20:17:18.741Z",
+            "received": true
+          },
+          {
+            "messageId": "g2pce5eclhi58eey",
+            "message": "a",
+            "timeDate": "2023-05-10T20:18:46.906Z",
+            "received": false
+          },
+          {
+            "messageId": "g2pce5eclhi58ia7",
+            "message": "Este es un mensaje de prueba! Deberías de recibir este mensaje luego de 5 segundos de haber enviado uno.",
+            "timeDate": "2023-05-10T20:18:51.919Z",
+            "received": true
+          },
+          {
+            "messageId": "g2pce5eclhi5goes",
+            "message": "Hola",
+            "timeDate": "2023-05-10T20:25:13.108Z",
+            "received": false
+          },
+          {
+            "messageId": "g2pce5eclhi5gsa0",
+            "message": "Este es un mensaje de prueba! Deberías de recibir este mensaje luego de 5 segundos de haber enviado uno.",
+            "timeDate": "2023-05-10T20:25:18.120Z",
+            "received": true
+          },
+          {
+            "messageId": "g2pce5eclhi5tay1",
+            "message": "hola",
+            "timeDate": "2023-05-10T20:35:02.185Z",
+            "received": false
+          },
+          {
+            "messageId": "g2pce5eclhi5tet4",
+            "message": "Este es un mensaje de prueba! Deberías de recibir este mensaje luego de 5 segundos de haber enviado uno.",
+            "timeDate": "2023-05-10T20:35:07.192Z",
+            "received": true
+          },
+          {
+            "messageId": "g2pce5eclhiiraj5",
+            "message": "hola hola",
+            "timeDate": "2023-05-11T02:37:23.345Z",
+            "received": false
+          },
+          {
+            "messageId": "g2pce5eclhiireeb",
+            "message": "Este es un mensaje de prueba! Deberías de recibir este mensaje luego de 5 segundos de haber enviado uno.",
+            "timeDate": "2023-05-11T02:37:28.355Z",
+            "received": true
+          }
+        ]
+      },
+      {
+        "chatId": "42t3f1lyl33godcw",
+        "name": "Peach",
+        "image": "images/42t3f1lyl33godcr-peach.png",
+        "messages": [
+          {
+            "messageId": "42t3f1psl33grkjf",
+            "message": "Hola Peach, donde estás?",
+            "timeDate": "2022-05-12T20:29:11.738Z",
+            "received": false
+          },
+          {
+            "messageId": "42t3f1qel33grq22",
+            "message": "Sola, en casa, por?",
+            "timeDate": "2022-05-12T20:29:18.889Z",
+            "received": true
+          },
+          {
+            "messageId": "42t3f1qml33gruss",
+            "message": "Noooooo",
+            "timeDate": "2022-05-12T20:29:25.035Z",
+            "received": false
+          },
+          {
+            "messageId": "g2pce5eclhi4v224",
+            "message": "a",
+            "timeDate": "2023-05-10T20:08:24.364Z",
+            "received": false
+          },
+          {
+            "messageId": "g2pce5eclhi4xbc6",
+            "message": "b",
+            "timeDate": "2023-05-10T20:10:09.702Z",
+            "received": false
+          },
+          {
+            "messageId": "g2pce5eclhi4xf7i",
+            "message": "Este es un mensaje de prueba! Deberías de recibir este mensaje luego de 5 segundos de haber enviado uno.",
+            "timeDate": "2023-05-10T20:10:14.718Z",
+            "received": true
+          },
+          {
+            "messageId": "g2pce5eclhi4xs9z",
+            "message": "a",
+            "timeDate": "2023-05-10T20:10:31.655Z",
+            "received": false
+          },
+          {
+            "messageId": "g2pce5eclhi4xw5a",
+            "message": "Este es un mensaje de prueba! Deberías de recibir este mensaje luego de 5 segundos de haber enviado uno.",
+            "timeDate": "2023-05-10T20:10:36.670Z",
+            "received": true
+          },
+          {
+            "messageId": "g2pce5eclhi4y0ti",
+            "message": "a",
+            "timeDate": "2023-05-10T20:10:42.726Z",
+            "received": false
+          },
+          {
+            "messageId": "g2pce5eclhi4y4oo",
+            "message": "Este es un mensaje de prueba! Deberías de recibir este mensaje luego de 5 segundos de haber enviado uno.",
+            "timeDate": "2023-05-10T20:10:47.736Z",
+            "received": true
+          },
+          {
+            "messageId": "g2pce5eclhi5smxm",
+            "message": "hola",
+            "timeDate": "2023-05-10T20:34:31.066Z",
+            "received": false
+          },
+          {
+            "messageId": "g2pce5eclhi5ti2o",
+            "message": "hola",
+            "timeDate": "2023-05-10T20:35:11.424Z",
+            "received": false
+          },
+          {
+            "messageId": "g2pce5eclhi5tly1",
+            "message": "Este es un mensaje de prueba! Deberías de recibir este mensaje luego de 5 segundos de haber enviado uno.",
+            "timeDate": "2023-05-10T20:35:16.441Z",
+            "received": true
+          },
+          {
+            "messageId": "g2pce5eclhi5todu",
+            "message": "hola",
+            "timeDate": "2023-05-10T20:35:19.602Z",
+            "received": false
+          },
+          {
+            "messageId": "g2pce5eclhi5tp4q",
+            "message": "hola",
+            "timeDate": "2023-05-10T20:35:20.570Z",
+            "received": false
+          },
+          {
+            "messageId": "g2pce5eclhi5ts90",
+            "message": "Este es un mensaje de prueba! Deberías de recibir este mensaje luego de 5 segundos de haber enviado uno.",
+            "timeDate": "2023-05-10T20:35:24.612Z",
+            "received": true
+          },
+          {
+            "messageId": "g2pce5eclhi5tszq",
+            "message": "Este es un mensaje de prueba! Deberías de recibir este mensaje luego de 5 segundos de haber enviado uno.",
+            "timeDate": "2023-05-10T20:35:25.574Z",
+            "received": true
+          },
+          {
+            "messageId": "g2pce5eclhif8lw6",
+            "message": "hola",
+            "timeDate": "2023-05-11T00:58:52.758Z",
+            "received": false
+          },
+          {
+            "messageId": "g2pce5eclhif8prh",
+            "message": "Este es un mensaje de prueba! Deberías de recibir este mensaje luego de 5 segundos de haber enviado uno.",
+            "timeDate": "2023-05-11T00:58:57.773Z",
+            "received": true
+          },
+          {
+            "messageId": "g2pce5eclhiip6yc",
+            "message": "hola",
+            "timeDate": "2023-05-11T02:35:45.396Z",
+            "received": false
+          },
+          {
+            "messageId": "g2pce5eclhiir3em",
+            "message": "Holaaa",
+            "timeDate": "2023-05-11T02:37:14.110Z",
+            "received": false
+          },
+          {
+            "messageId": "g2pce5eclhiir7a2",
+            "message": "Este es un mensaje de prueba! Deberías de recibir este mensaje luego de 5 segundos de haber enviado uno.",
+            "timeDate": "2023-05-11T02:37:19.130Z",
+            "received": true
+          }
+        ]
+      }
+    ]
+  }
+]
